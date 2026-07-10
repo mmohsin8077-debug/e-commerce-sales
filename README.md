@@ -1,7 +1,6 @@
-# e-commerce-sales
-## Overview
-The primary goal of this project was to develop an interactive B2C E-Commerce Sales Dashboard in Power BI to analyze overall business performance, identify profitability trends, and track regional sales drivers. By centralizing key performance indicators (KPIs), the project transforms raw retail transaction data into actionable business intelligence to optimize inventory management and regional marketing strategies.
+# # 🛒 B2C E-Commerce Sales Analytics Dashboard | Power BI
 
+An interactive Power BI dashboard built to analyze 50,000+ retail transactions, uncover sales trends, monitor profitability, and support data-driven business decisions.
 ---
 
 ## Objective
