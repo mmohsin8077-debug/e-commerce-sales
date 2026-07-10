@@ -53,7 +53,8 @@ Sales Dashboard
 <img width="905" height="508" alt="ecom-sales" src="https://github.com/user-attachments/assets/c6afdb93-f1b9-4312-aedc-d7eaf72918f4" />
 
 Product analysis
-(https://github.com/mmohsin8077-debug/e-commerce-sales/blob/main/product-analysis.png)
+<img width="908" height="486" alt="product-analysis" src="https://github.com/user-attachments/assets/ba7502ba-6764-4686-a811-ba3d510cb71e" />
+
 
 ## Business Insights
 
