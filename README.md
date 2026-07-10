@@ -1,6 +1,4 @@
 # e-commerce-sales
-# Project Title
-
 ## Overview
 Briefly explain what the project is about and its objective.
 
