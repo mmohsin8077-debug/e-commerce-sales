@@ -51,15 +51,14 @@ This project analyzes B2C E-commerce sales data using SQL, Python, and Power BI 
 ---
 
 ## Dashboard
-(Add dashboard screenshot here)
+Sales Dashboard
+(https://github.com/mmohsin8077-debug/e-commerce-sales/blob/main/ecom-sales.png)
 
-Example:
-
-![Dashboard](images/dashboard.png)
-
----
+Product analysis
+()
 
 ## Business Insights
+
 ## Product Performance:
 HeadPhones Accusantium was the best-selling product, generating $0.86M in sales and $142K in profit, making it the company's highest-performing individual product.
 Within the Home Décor and Furnishings category, Sofa ($15.2M) and Lamp ($14.8M) were the top revenue contributors.
