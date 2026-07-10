@@ -55,7 +55,7 @@ Sales Dashboard
 (https://github.com/mmohsin8077-debug/e-commerce-sales/blob/main/ecom-sales.png)
 
 Product analysis
-()
+(https://github.com/mmohsin8077-debug/e-commerce-sales/blob/main/product-analysis.png)
 
 ## Business Insights
 
