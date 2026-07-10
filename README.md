@@ -1,4 +1,3 @@
-<img width="905" height="508" alt="ecom-sales" src="https://github.com/user-attachments/assets/c6afdb93-f1b9-4312-aedc-d7eaf72918f4" />
 # e-commerce-sales
 ## Overview
 Briefly explain what the project is about and its objective.
@@ -51,7 +50,7 @@ This project analyzes B2C E-commerce sales data using SQL, Python, and Power BI 
 
 ## Dashboard
 Sales Dashboard
-(https://github.com/mmohsin8077-debug/e-commerce-sales/blob/main/ecom-sales.png)
+<img width="905" height="508" alt="ecom-sales" src="https://github.com/user-attachments/assets/c6afdb93-f1b9-4312-aedc-d7eaf72918f4" />
 
 Product analysis
 (https://github.com/mmohsin8077-debug/e-commerce-sales/blob/main/product-analysis.png)
