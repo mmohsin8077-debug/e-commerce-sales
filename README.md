@@ -1,9 +1,6 @@
 # e-commerce-sales
 ## Overview
-Briefly explain what the project is about and its objective.
-
-Example:
-This project analyzes B2C E-commerce sales data using SQL, Python, and Power BI to identify sales trends, customer behavior, and business performance.
+The primary goal of this project was to develop an interactive B2C E-Commerce Sales Dashboard in Power BI to analyze overall business performance, identify profitability trends, and track regional sales drivers. By centralizing key performance indicators (KPIs), the project transforms raw retail transaction data into actionable business intelligence to optimize inventory management and regional marketing strategies.
 
 ---
 
