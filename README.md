@@ -1,3 +1,4 @@
+<img width="905" height="508" alt="ecom-sales" src="https://github.com/user-attachments/assets/c6afdb93-f1b9-4312-aedc-d7eaf72918f4" />
 # e-commerce-sales
 ## Overview
 Briefly explain what the project is about and its objective.
